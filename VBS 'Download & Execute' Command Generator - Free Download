@@ -1,0 +1,15 @@
+Generate a VBS script dropper to download a file and execute on any Windows.
+
+Demo:
+https://i.ibb.co/vD5X3Rn/VBS-Downloader-Test.gif
+
+Download:
+https://filecrypt.cc/Container/86484FB102.html
+https://oxy.cloud/d/yDDe
+https://nitro.download/view/132BAC7AB68EE94/VBS_%27Download_%26_Execute%27_Command_Generator.rar
+
+Virus Scan:
+The source is in plain text
+
+Detection: Generic.XPL.ADODB.488FA6CD, ADODB is the vulnerable component in this vbs.
+Detection: TrojanDownloader:HTML/Adodb.gen!A
