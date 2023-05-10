@@ -1,0 +1,19 @@
+Windows Firewall Exception Generator creates command line code that create rules to allow a specific exe to
+access the internet and bypass the Firewall restriction. This is part of Batch Generator by Privateloader.
+
+From Windows Help
+When you add an app to the list of allowed apps in a firewall —sometimes called unblocking— you
+allow a specific app to send info to or from your PC through the firewall.
+
+How to?
+Specify a filename and a filepath
+
+Example:
+filename : rundll32
+filepath : c:\windows\system32\rundll32.exe
+
+Download:
+https://nitroflare.com/view/5754802DA987303/Windows_Firewall_Exception_Generator.zip
+
+Virus Scan:
+https://www.virustotal.com/#/file/d445688036ec2b39cc8bb52ee13faa7aaa77f864b93afcf11d641494817e7e8d/detection
