@@ -1,0 +1,12 @@
+In June 2020, the user-generated stories website Wattpad suffered a huge data breach that exposed almost
+270 million records. The data was initially sold then published on a public hacking forum where it was
+broadly shared. The incident exposed extensive personal information including names and usernames, email
+and IP addresses, genders, birth dates and passwords stored as bcrypt hashes.
+
+I would like to warn users this leak is over 119.41GB uncompressed and 22.05GB compressed.
+
+Compromised data: Bios, Dates of birth, Email addresses, Genders, Geographic locations, IP addresses,
+Names, Passwords, Social media profiles, User website URLs, Usernames
+
+Download:
+https://link-center.net/68451/wattpad-database-leaked-j
