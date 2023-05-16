@@ -1,0 +1,32 @@
+In December 2021, the online booking service FlexBooker suffered a data breach that exposed 3.7 million accounts. 
+The data included email addresses, names, phone numbers and for a small number of accounts, password hashes and
+partial credit card data.
+
+Note: This data is a sample containing 10 million lines...
+
+Table Customers ~10M lines
+(Interesting columns :"FirstName","LastName","Email","Phone","StoredPaymentMask","PasswordSalt","HashedPassword")
+https://filecrypt.cc/Container/980B17695D.html
+http://gigapeta.com/dl/10053695a510d12
+https://ddownload.com/jppinlpyafcp/Customers_202112231551.csv.zip
+https://nitro.download/view/D1CBFA13A0708B2/Customers_202112231551.csv.zip
+
+Table PaymentForms
+https://filecrypt.cc/Container/44C774DF61.html
+https://oxy.cloud/d/AXNe
+https://ddownload.com/hagkqenqgjl8/_PaymentForms.zip
+
+Table Merchants
+https://filecrypt.cc/Container/E74411F0AD.html
+https://oxy.cloud/d/IXNe
+https://ddownload.com/jax9x52r3g62/_Merchants.zip
+
+Table Charges
+https://filecrypt.cc/Container/122D39F941.html
+https://oxy.cloud/d/CXNe
+https://ddownload.com/06rkqh1savg9/_Charges.zip
+
+Table SentSMS
+https://filecrypt.cc/Container/7337BDB99D.html
+https://oxy.cloud/d/MXNe
+https://ddownload.com/9j031aijx6cr/SentSms.zip
